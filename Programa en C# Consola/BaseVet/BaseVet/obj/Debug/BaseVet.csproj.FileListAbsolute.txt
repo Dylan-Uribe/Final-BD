@@ -1,0 +1,7 @@
+C:\Users\dylan_tmut0bm\source\repos\Prácticas c#\BaseVet\BaseVet\bin\Debug\BaseVet.exe.config
+C:\Users\dylan_tmut0bm\source\repos\Prácticas c#\BaseVet\BaseVet\bin\Debug\BaseVet.exe
+C:\Users\dylan_tmut0bm\source\repos\Prácticas c#\BaseVet\BaseVet\bin\Debug\BaseVet.pdb
+C:\Users\dylan_tmut0bm\source\repos\Prácticas c#\BaseVet\BaseVet\obj\Debug\BaseVet.csproj.AssemblyReference.cache
+C:\Users\dylan_tmut0bm\source\repos\Prácticas c#\BaseVet\BaseVet\obj\Debug\BaseVet.csproj.CoreCompileInputs.cache
+C:\Users\dylan_tmut0bm\source\repos\Prácticas c#\BaseVet\BaseVet\obj\Debug\BaseVet.exe
+C:\Users\dylan_tmut0bm\source\repos\Prácticas c#\BaseVet\BaseVet\obj\Debug\BaseVet.pdb
